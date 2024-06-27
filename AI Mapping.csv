@@ -1,0 +1,104 @@
+﻿Parent,Child
+NPD-Prozess,1. Ideenfindung und Voruntersuchung
+NPD-Prozess,2. Detaillierte Untersuchung (Business Case)
+NPD-Prozess,3. Entwicklung
+NPD-Prozess,4. Tests und Validierung
+NPD-Prozess,5. Markteinführung
+NPD-Prozess,6. Nachbewertung und kontinuierliche Verbesserung
+NPD-Prozess,7. Übergreifende Anwendungen
+1. Ideenfindung und Voruntersuchung,Analyse von Marktdaten aus Online-Quellen
+1. Ideenfindung und Voruntersuchung,Überwachung von Aktivitäten der Konkurrenz
+1. Ideenfindung und Voruntersuchung,Erkennung von Technologietrends
+1. Ideenfindung und Voruntersuchung,Analyse von Blogbeiträgen und Benutzerkommentaren
+1. Ideenfindung und Voruntersuchung,Analyse von Textantworten aus Umfragen
+1. Ideenfindung und Voruntersuchung,Generierung von Kundenbefragungsleitfäden
+1. Ideenfindung und Voruntersuchung,Generierung neuer Produktkonzepte
+1. Ideenfindung und Voruntersuchung,Bewertung von Konzepten
+1. Ideenfindung und Voruntersuchung,Mining interner technischer Daten
+2. Detaillierte Untersuchung (Business Case),Analyse von Finanzdaten
+2. Detaillierte Untersuchung (Business Case),Erstellung von Umsatz- und Rentabilitätsprognosen
+2. Detaillierte Untersuchung (Business Case),Identifizierung potenzieller Risiken
+2. Detaillierte Untersuchung (Business Case),Vorhersage von Marktgröße und Verkäufen
+2. Detaillierte Untersuchung (Business Case),Vorhersage des Verkaufserfolgs bestimmter Produkte
+2. Detaillierte Untersuchung (Business Case),Simulation verschiedener Szenarien
+3. Entwicklung,Design von Produktkonzepten aus verbalen Befehlen
+3. Entwicklung,Erstellung von 3D-Modellen
+3. Entwicklung,Erstellung von Mockups und virtuellen Prototypen
+3. Entwicklung,Entwicklung benutzerfreundlicher Produkte
+3. Entwicklung,Integration verschiedener Datentypen
+4. Tests und Validierung,Erklärung von KI-Entscheidungen im Produktdesign
+4. Tests und Validierung,Validierung von Gesundheitsprodukten
+4. Tests und Validierung,Automatisierung des Projektmanagements
+4. Tests und Validierung,Durchführung schneller Design-Iterationen
+4. Tests und Validierung,Strukturelle Optimierung
+4. Tests und Validierung,Optimierung des Designs mit digitalen Zwillingen
+5. Markteinführung,Erstellung von Markteinführungsplänen
+5. Markteinführung,Erstellung von Werbematerialien
+5. Markteinführung,Optimierung der Produktverteilung
+5. Markteinführung,Optimierung der Preisstrategie
+5. Markteinführung,Lead-Scoring für den Vertrieb
+5. Markteinführung,Einsatz von Blockchain zur Warenverfolgung
+5. Markteinführung,Management der Lieferkette
+5. Markteinführung,Optimierung von Produktionsprozessen
+6. Nachbewertung und kontinuierliche Verbesserung,Überwachung der Produktleistung
+6. Nachbewertung und kontinuierliche Verbesserung,Erkennung von Problemen und Nutzungsmustern
+6. Nachbewertung und kontinuierliche Verbesserung,Analyse von Kundenfeedback (Audio/Video)
+6. Nachbewertung und kontinuierliche Verbesserung,Analyse von Marktdaten nach dem Launch
+7. Übergreifende Anwendungen,Simulation von Markt- und Produktszenarien
+7. Übergreifende Anwendungen,Beantwortung technischer Fragen
+7. Übergreifende Anwendungen,Simulation von Maschinen und Fabriken
+7. Übergreifende Anwendungen,Bereitstellung von Mitarbeiterschulungen
+7. Übergreifende Anwendungen,Qualitätskontrolle
+KI-Modelle,1. Bildverarbeitung und Computer Vision
+KI-Modelle,2. Natürliche Sprachverarbeitung (NLP)
+KI-Modelle,3. Sprach- und Audioverarbeitung
+KI-Modelle,4. Zeitreihenanalyse und Vorhersage
+KI-Modelle,5. Empfehlungssysteme
+KI-Modelle,6. Autonome Systeme und Robotik
+KI-Modelle,7. Medizinische Diagnose und Gesundheitswesen
+KI-Modelle,8. Finanzwesen und Risikoanalyse
+KI-Modelle,9. Spielestrategien und -KI
+KI-Modelle,10. Datenanalyse und Business Intelligence
+KI-Modelle,11. Multimodale Systeme
+KI-Modelle,12. Erklärbare KI (XAI)
+KI-Modelle,13. Allgemeine Optimierung und Problemlösung
+1. Bildverarbeitung und Computer Vision,Convolutional Neural Networks (CNN)
+1. Bildverarbeitung und Computer Vision,Vision Transformers (ViT)
+1. Bildverarbeitung und Computer Vision,Object Detection Models
+1. Bildverarbeitung und Computer Vision,Image Segmentation Models
+1. Bildverarbeitung und Computer Vision,Generative Adversarial Networks (GANs)
+2. Natürliche Sprachverarbeitung (NLP),BERT
+2. Natürliche Sprachverarbeitung (NLP),GPT
+2. Natürliche Sprachverarbeitung (NLP),Word Embeddings (Word2Vec GloVe)
+2. Natürliche Sprachverarbeitung (NLP),Named Entity Recognition Models
+2. Natürliche Sprachverarbeitung (NLP),Sentiment Analysis Models
+2. Natürliche Sprachverarbeitung (NLP),Machine Translation Models
+3. Sprach- und Audioverarbeitung,Speech Recognition Models
+3. Sprach- und Audioverarbeitung,Text-to-Speech Models
+3. Sprach- und Audioverarbeitung,Music Generation Models
+4. Zeitreihenanalyse und Vorhersage,ARIMA Models
+4. Zeitreihenanalyse und Vorhersage,Long Short-Term Memory (LSTM) Networks
+4. Zeitreihenanalyse und Vorhersage,Prophet
+5. Empfehlungssysteme,Collaborative Filtering
+5. Empfehlungssysteme,Content-Based Filtering
+5. Empfehlungssysteme,Matrix Factorization
+6. Autonome Systeme und Robotik,Reinforcement Learning Algorithms
+6. Autonome Systeme und Robotik,Path Planning Algorithms
+6. Autonome Systeme und Robotik,Control Systems
+7. Medizinische Diagnose und Gesundheitswesen,Diagnostic Classification Models
+7. Medizinische Diagnose und Gesundheitswesen,Medical Image Analysis
+7. Medizinische Diagnose und Gesundheitswesen,Patient Data Analysis Models
+8. Finanzwesen und Risikoanalyse,Time Series Forecasting for Stock Prices
+8. Finanzwesen und Risikoanalyse,Credit Scoring Models
+8. Finanzwesen und Risikoanalyse,Fraud Detection Systems
+9. Spielestrategien und -KI,Monte Carlo Tree Search
+9. Spielestrategien und -KI,AlphaGo/AlphaZero-like Models
+10. Datenanalyse und Business Intelligence,Clustering Algorithms (K-Means DBSCAN)
+10. Datenanalyse und Business Intelligence,Anomaly Detection Models
+10. Datenanalyse und Business Intelligence,Decision Trees and Random Forests
+11. Multimodale Systeme,Multimodale LLMs
+11. Multimodale Systeme,Image-Text Matching Models
+12. Erklärbare KI (XAI),LIME
+12. Erklärbare KI (XAI),SHAP
+13. Allgemeine Optimierung und Problemlösung,Genetic Algorithms
+13. Allgemeine Optimierung und Problemlösung,Particle Swarm Optimization
